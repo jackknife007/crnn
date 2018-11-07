@@ -1,2 +1,2 @@
 # crnn
-a simple demo for crnn
+crnn的实现，识别长度为3-10的验证码，除了容易混淆的大小写，其他的识别率都还不错
